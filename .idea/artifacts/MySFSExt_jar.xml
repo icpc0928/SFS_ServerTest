@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MySFSExt:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="MySFSExt.jar">
+      <element id="module-output" name="MySFSExt" />
+      <element id="extracted-dir" path="$USER_HOME$/SmartFoxServer_2X/SFS2X/lib/sfs2x.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/SmartFoxServer_2X/SFS2X/lib/sfs2x-core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
